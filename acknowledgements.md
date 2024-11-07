@@ -12,6 +12,7 @@ If you make a pull request, please also add your name here in the alphabetical o
 * Kevin Luo
 * Jonathan Z. Lu
 * Kunal Marwaha
+* Pietro Monticone
 * Benjamin Rio
 * Zuzanna Skoczylas
 * Abe Wieland
