@@ -178,8 +178,8 @@ in contradiction to the choice of $p$ as the smallest divisor of $n$.
 Let $n=p_1 \cdots p_k + 1$ and suppose for the sake of
 contradiction that there exists some $i$ such that $n = p_i\cdot c$ for some
 integer $c$. Then if we divide the equation $n - p_1 \cdots p_k = 1$ by $p_i$
-then we get $c$ minus an integer on the lefthand side, and the fraction
-$1/p_i$ on the righthand side.
+then we get $c$ minus an integer on the left-hand side, and the fraction
+$1/p_i$ on the right-hand side.
 
 This completes the proof of [infprimesthm](){.ref}
 
