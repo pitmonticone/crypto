@@ -134,7 +134,7 @@ An encryption scheme $(E,D)$ is _secure against chosen plaintext attack (CPA sec
 [cpasecuredef](){.ref} is illustrated in [cpasecgamefig](){.ref}.
 Our previous notion of computational secrecy (i.e., [compsecdef](){.ref}) corresponds to the case that we skip Steps 3 and 5 above.
 Since Steps 3 and 5 only give the adversary more power (and hence is only more likely to win), CPA security ([cpasecuredef](){.ref}) is _stronger_ than computational secrecy ([compsecdef](){.ref}), in the sense that every CPA secure encryption $(E,D)$ is also computationally secure.
-It turns out that CPA security is _strictly stronger_, in the sense that without modification, our stream ciphers cannot be CPA secure. In fact, we have a stronger, and intially somewhat surprising theorem:
+It turns out that CPA security is _strictly stronger_, in the sense that without modification, our stream ciphers cannot be CPA secure. In fact, we have a stronger, and initially somewhat surprising theorem:
 
 > # {.theorem title="CPA security requires randomization" #CPAsecrandomthm}
 There is no CPA secure $(E,D)$ where $E$ is _deterministic_.
