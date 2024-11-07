@@ -13,7 +13,7 @@ chapternum: "p"
 >   resolve."* Edgar Allan Poe, 1841
 
 Cryptography - the art or science of "secret writing" - has been around for
-several millenia. For almost all that time, Edgar Allan Poe's quote above
+several millennia. For almost all that time, Edgar Allan Poe's quote above
 held true. Indeed, the history of cryptography is littered with the figurative
 corpses of cryptosystems believed secure and then broken, and sometimes with the
 actual corpses of those who have mistakenly placed their faith in these
@@ -98,7 +98,7 @@ Depending on time, I plan to cover the following notions:
         well as real-world examples why these notions are necessary.
 
     4.  **Hash functions and the "Random Oracle Model":** Hash functions are
-        used everwhere in crypto, including for verifying integrity, entropy
+        used everywhere in crypto, including for verifying integrity, entropy
         distillation, and many other cases.
 
     5.  **Building pseudorandom generators from one-way permutations (optional):**
