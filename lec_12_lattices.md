@@ -191,7 +191,7 @@ The _LWE conjecture_ (without any parameters) is that there is some absolute con
 [^superpoly]: People sometimes also consider variants where both $p(n)$ and $q(n)$ can be as large as exponential.
 
 It is important to note the order of quantifiers in the learning with error conjecture.
-If we want to handle a noise of low enough magnitude (say $\delta(n) = 1/n^2$) then we need to choose the modulos $q$ to be large enough (for example it is believed that $q > n^4$ will be good enough for this case) and then the adversary can choose $m(n)$ to be as big a polynomial as they like, and of course run in time which is an arbitrary polynomial in $n$.
+If we want to handle a noise of low enough magnitude (say $\delta(n) = 1/n^2$) then we need to choose the moduli $q$ to be large enough (for example it is believed that $q > n^4$ will be good enough for this case) and then the adversary can choose $m(n)$ to be as big a polynomial as they like, and of course run in time which is an arbitrary polynomial in $n$.
 Therefore we can think of such an adversary $R$ as getting access to a "magic box" that they can use $m=poly(n)$ number of times to get "noisy equations on $x$" of the form $(a_i,y_i)$ with $a_i\in \Z_q^n$, $y_i \in \Z_q$ where $y_i = \langle a_i, x \rangle + e_i$.
 
 
